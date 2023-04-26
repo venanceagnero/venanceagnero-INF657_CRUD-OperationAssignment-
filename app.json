@@ -1,0 +1,33 @@
+{
+    "expo": {
+        "name": "Cafridia",
+        "slug": "Cafridia",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/Cimg1.png",
+        "userInterfaceStyle": "light",
+        "splash": {
+            "image": "./assets/Cimg1.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#ffffff"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/Cimg1.png",
+                "backgroundColor": "#FFFFFF"
+            }
+        },
+        "web": {
+            "favicon": "./assets/Cimg1.png"
+        }
+    }
+}
